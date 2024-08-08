@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shubhamshetkar46@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1hL4KnZWjpew3dkWRJabLfgw__JG_XovS](https://drive.google.com/drive/folders/1hL4KnZWjpew3dkWRJabLfgw__JG_XovS)
+- 📄 Know about my profile [https://drive.google.com/drive/folders/1hL4KnZWjpew3dkWRJabLfgw__JG_XovS](https://drive.google.com/drive/folders/1hL4KnZWjpew3dkWRJabLfgw__JG_XovS)
 
 
 <h3 align="left">Connect with me:</h3>
