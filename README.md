@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **shubhamshetkar46@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1hL4KnZWjpew3dkWRJabLfgw__JG_XovS](https://drive.google.com/drive/folders/1hL4KnZWjpew3dkWRJabLfgw__JG_XovS)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubham_0618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_0618" height="30" width="40" /></a>
