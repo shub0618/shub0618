@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shu1827&label=Profile%20views&color=0e75b6&style=flat" alt="shu1827" /> </p>
 
-- 🌱 I’m currently learning **Python, Linux, Devops with AWS**
+- 🌱 I’m currently learning **Python, Devops with AWS**
 
 - 📫 How to reach me **shubhamshetkar46@gmail.com**
 
