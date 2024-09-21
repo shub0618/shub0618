@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Shetkar</h1>
 <h3 align="center"> Engineering Graduate in Electronics and Communication 2024 Batch   </h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shu1827&label=Profile%20views&color=0e75b6&style=flat" alt="shu1827" /> </p>
 
