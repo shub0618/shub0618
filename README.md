@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Shetkar</h1>
-<h3 align="center"> Electronics and Communication Engineer (2024) with DevOps skills, passionate about automation and cloud. Ready to drive innovation and optimize workflows.</h3>
+<h3 align="center"> Electronics and Communication Engineer (2024) with DevOps skills, passionate about automation and cloud, ready to drive innovation and optimize workflows.</h3>
 
 <img align="right" alt="coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
 
