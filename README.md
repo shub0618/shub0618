@@ -1,22 +1,70 @@
 <h1 align="center">Hi 👋, I'm Shubham Shetkar</h1>
-<h3 align="center"> Electronics and Communication Engineer (2024) with DevOps skills, passionate about automation and cloud, ready to drive innovation and optimize workflows.</h3>
 
-<img align="right" alt="coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shu1827&label=Profile%20views&color=0e75b6&style=flat" alt="shu1827" /> </p>
-
-- 🌱 I’m currently learning **Python & Devops with AWS**
-
-- 📫 How to reach me **shubhamshetkar46@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shubham_0618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_0618" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham shetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham shetkar" height="30" width="40" /></a>
-<a href="https://fb.com/shubham shetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham shetkar" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham_shetkar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_shetkar27" height="30" width="40" /></a>
-<a href="https://medium.com/@shubhamshetkar46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhammahindrakar11" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shu1827&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<h3 align="center">
+DevOps Engineer | Cloud Infrastructure | Automation 🚀  
+<br/>
+Electronics and Communication Engineer (2024)
+</h3>
+
+---
+
+<table align="center" cellpadding="5">
+<tr>
+
+<td width="55%" valign="top">
+
+<h3>🚀 About Me</h3>
+
+<ul>
+  <li>🔭 Working on <b>GCP Architecture Development</b></li>
+  <li>🌱 Learning <b>Kubernetes & Cloud-native systems</b></li>
+  <li>🤝 Open to collaborate on <b>DevOps & Cloud projects</b></li>
+  <li>💬 Experience with <b>Networking & Solution Architecture</b></li>
+  <li>📫 Contact: <b>shubhamshetkar46@gmail.com</b></li>
+  <li>📝 Articles: <a href="https://medium.com/@shubhamshetkar46">Medium</a></li>
+</ul>
+
+</td>
+
+<td width="45%" align="center">
+  <img src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif" width="250"/>
+</td>
+
+</tr>
+</table>
+
+---
+
+<h3 align="center">🚀 DevOps & Cloud Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,git,githubactions,linux,bash,nginx,grafana,prometheus,python,go,mysql,postgres,redis&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="40"/>
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://twitter.com/shubham_0618">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/shubham-shetkar">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://instagram.com/shubham_shetkar_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://medium.com/@shubhamshetkar46">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" height="40" />
+  </a>
+</p>
