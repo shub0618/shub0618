@@ -20,7 +20,7 @@ Electronics and Communication Engineer (2024)
 <h3>🚀 About Me</h3>
 
 <ul>
-  <li>🔭 Working on <b>GCP Architecture Development</b></li>
+  <li>🔭 Working on <b> Multi-Cloud Architecture Development</b></li>
   <li>🌱 Learning <b>Kubernetes & Cloud-native systems</b></li>
   <li>🤝 Open to collaborate on <b>DevOps & Cloud projects</b></li>
   <li>💬 Experience with <b>Networking & Solution Architecture</b></li>
